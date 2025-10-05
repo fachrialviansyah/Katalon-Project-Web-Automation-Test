@@ -1,4 +1,4 @@
-# Katalon - Web Automation with Katalon at AfterOffice 
+# Katalon - Web Automation at AfterOffice 
 ### Automation testing WEB: https://www.saucedemo.com/
 
 ### :zap: Soal
