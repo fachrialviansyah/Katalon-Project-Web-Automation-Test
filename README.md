@@ -1,8 +1,8 @@
 # Katalon - Web Automation with Katalon at AfterOffice 
 ### Automation testing WEB: https://www.saucedemo.com/
-<img src="https://skillicons.dev/icons?i=katalon"/>
+
 ### :zap: Soal
-- go to : https://www.saucedemo.com/
+- go to https://www.saucedemo.com/
 - get each book locator using different xpath if possible
 - use parameterized test object if possible
 - create automation to check that each book is visible (Improve test case)
