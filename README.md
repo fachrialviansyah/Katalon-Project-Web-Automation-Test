@@ -1,18 +1,15 @@
-# healthcare-tests
+#Katalon - Web Automation with Katalon at AfterOffice <img src="https://skillicons.dev/icons?i=katalon"/>
+### Automation testing WEB: https://www.saucedemo.com/
 
-Navigate to https://docs.katalon.com/katalon-studio/docs/health-care-prj.html for further details.
+### :zap: Soal
+- go to : https://www.saucedemo.com/
+- get each book locator using different xpath if possible
+- use parameterized test object if possible
+- create automation to check that each book is visible (Improve test case)
+- Integrasikan test case dengan DDT (csv/database/internal data)
+- Run pada test suite
+- Generate Report
+- Buat minimal 3 test case
 
-## Companion products
-
-### Katalon TestOps
-
-[Katalon TestOps](https://analytics.katalon.com) is a web-based application that provides dynamic perspectives and an insightful look at your automation testing data. You can leverage your automation testing data by transforming and visualizing your data; analyzing test results; seamlessly integrating with such tools as Katalon Studio and Jira; maximizing the testing capacity with remote execution.
-
-* Read our [documentation](https://docs.katalon.com/katalon-analytics/docs/overview.html).
-* Ask a question on [Forum](https://forum.katalon.com/categories/katalon-analytics).
-* Request a new feature on [GitHub](CONTRIBUTING.md).
-* Vote for [Popular Feature Requests](https://github.com/katalon-analytics/katalon-analytics/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc).
-* File a bug in [GitHub Issues](https://github.com/katalon-analytics/katalon-analytics/issues).
-
-### Katalon Studio
-[Katalon Studio](https://www.katalon.com) is a free and complete automation testing solution for Web, Mobile, and API testing with modern methodologies (Data-Driven Testing, TDD/BDD, Page Object Model, etc.) as well as advanced integration (JIRA, qTest, Slack, CI, Katalon TestOps, etc.). Learn more about [Katalon Studio features](https://www.katalon.com/features/).
+### :zap: Hasil Report Web Automation Katalon
+<img width="1350" height="760" alt="image" src="https://github.com/user-attachments/assets/0650a9fd-f841-4573-842e-027c59d4909e" />
