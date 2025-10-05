@@ -1,6 +1,6 @@
-#Katalon - Web Automation with Katalon at AfterOffice <img src="https://skillicons.dev/icons?i=katalon"/>
+# Katalon - Web Automation with Katalon at AfterOffice 
 ### Automation testing WEB: https://www.saucedemo.com/
-
+<img src="https://skillicons.dev/icons?i=katalon"/>
 ### :zap: Soal
 - go to : https://www.saucedemo.com/
 - get each book locator using different xpath if possible
