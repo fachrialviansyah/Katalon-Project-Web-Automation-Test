@@ -1,4 +1,4 @@
-# Katalon - Web Automation at AfterOffice 
+# Web UI Automation Testing - Katalon Studio
 ### Automation testing WEB: https://www.saucedemo.com/
 
 ### :zap: Soal
